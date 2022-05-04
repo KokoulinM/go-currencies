@@ -1,4 +1,4 @@
-# go_currencies
+# gocurrencies
 
 Сurrency codes of various countries in accordance with the international standard ISO 4217
 
