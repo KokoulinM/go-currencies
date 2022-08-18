@@ -1,3 +1,3 @@
-module github.com/KokoulinM/gocurrencies
+module github.com/mkokoulin/gocurrencies
 
 go 1.18
